@@ -1,0 +1,8 @@
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\Lighting.vcxproj.CopyComplete
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\Lighting.exe
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\glew32d.dll
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\SDL2d.dll
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\SDL2_imaged.dll
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\jpeg62.dll
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\libpng16d.dll
+C:\Users\Asus_user\OneDrive\Desktop\grafika\OneDrive_2023-12-08\Lighting_orai\x64\Debug\zlibd1.dll
